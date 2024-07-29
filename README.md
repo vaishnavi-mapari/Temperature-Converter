@@ -92,7 +92,7 @@ This project is open-source and available under the MIT License.
 Feel free to reach out for any questions or collaboration opportunities:
 
 - **Author**: Vaishnavi Mapari
-- **Email**: vaishnavi.mapari678@example.com
+- **Email**: vmapari678@example.com
 - **GitHub**: [vaishnavi-mapari](https://github.com/vaishnavi-mapari)
 
 ---
