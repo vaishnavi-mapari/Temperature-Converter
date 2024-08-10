@@ -83,10 +83,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
    - Click on the `Pull Requests` tab.
    - Click on the `New Pull Request` button.
 
-## License
-
-This project is open-source and available under the MIT License.
-
 ## Contact
 
 Feel free to reach out for any questions or collaboration opportunities:
@@ -95,7 +91,3 @@ Feel free to reach out for any questions or collaboration opportunities:
 - **Email**: vmapari678@example.com
 - **GitHub**: [vaishnavi-mapari](https://github.com/vaishnavi-mapari)
 
----
-
-This project is a demonstration of my skills in web development using HTML, CSS, and JavaScript.
-```
